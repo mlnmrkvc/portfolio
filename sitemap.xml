@@ -1,30 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-    <url>
-        <loc>https://mlnmrkvc.github.io/test/an-interactive-guide-through-the-history-of-holland.html</loc>
-    </url>
-    <url>
-        <loc>https://mlnmrkvc.github.io/test/digital-signage-in-pubs-and-bars.html</loc>
-    </url>
-    <url>
-        <loc>https://mlnmrkvc.github.io/test/IKEA-Indoor-maps-for-the-great-megastore.html</loc>
-    </url>
-    <url>
-        <loc>https://mlnmrkvc.github.io/test/</loc>
-    </url>
-    <url>
-        <loc>https://mlnmrkvc.github.io/test/our-digital-signage-platform-in-action.html</loc>
-    </url>
-    <url>
-        <loc>https://mlnmrkvc.github.io/test/our-multifunctional-digital-signage-platform-you’ll-love-to-use.html</loc>
-    </url>
-    <url>
-        <loc>https://mlnmrkvc.github.io/test/quantify-and-track-your-exercise-routine.html</loc>
-    </url>
-    <url>
-        <loc>https://mlnmrkvc.github.io/test/the-ABCs-of-building-a-quality-workout-app.html</loc>
-    </url>
-    <url>
-        <loc>https://mlnmrkvc.github.io/test/the-benefits-of-working-out-in-a-gym.html</loc>
-    </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://mlnmrkvc.github.io/portfolio/index.html</loc>
+  <lastmod>2022-03-07T23:28:51+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://mlnmrkvc.github.io/portfolio/the-benefits-of-working-out-in-a-gym.html</loc>
+  <lastmod>2022-03-07T23:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mlnmrkvc.github.io/portfolio/quantify-and-track-your-exercise-routine.html</loc>
+  <lastmod>2022-03-07T23:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mlnmrkvc.github.io/portfolio/the-ABCs-of-building-a-quality-workout-app.html</loc>
+  <lastmod>2022-03-07T23:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mlnmrkvc.github.io/portfolio/digital-signage-in-pubs-and-bars.html</loc>
+  <lastmod>2022-03-07T23:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mlnmrkvc.github.io/portfolio/our-multifunctional-digital-signage-platform-you%E2%80%99ll-love-to-use.html</loc>
+  <lastmod>2022-03-07T23:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mlnmrkvc.github.io/portfolio/our-digital-signage-platform-in-action.html</loc>
+  <lastmod>2022-03-07T23:28:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mlnmrkvc.github.io/portfolio/an-interactive-guide-through-the-history-of-holland.html</loc>
+  <lastmod>2022-03-07T23:28:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mlnmrkvc.github.io/portfolio/IKEA-Indoor-maps-for-the-great-megastore.html</loc>
+  <lastmod>2022-03-07T23:28:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
