@@ -1,36 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-
-<url>
-  <loc>https://mlnmrkvc.github.io/test/</loc>
-  <lastmod>2022-03-06T18:46:33+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://mlnmrkvc.github.io/test/index.html</loc>
-  <lastmod>2022-03-06T18:46:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://mlnmrkvc.github.io/test/about.html</loc>
-  <lastmod>2022-03-06T18:46:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://mlnmrkvc.github.io/test/contact.html</loc>
-  <lastmod>2022-03-06T18:46:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://mlnmrkvc.github.io/test/post.html</loc>
-  <lastmod>2022-03-06T18:46:33+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>https://mlnmrkvc.github.io/test/about.html</loc>
+    </url>
+    <url>
+        <loc>https://mlnmrkvc.github.io/test/contact.html</loc>
+    </url>
+    <url>
+        <loc>https://mlnmrkvc.github.io/test/</loc>
+    </url>
+    <url>
+        <loc>https://mlnmrkvc.github.io/test/quantify-and-track-your-exercise-routine.html</loc>
+    </url>
+    <url>
+        <loc>https://mlnmrkvc.github.io/test/the-ABCs-of-building-a-quality-workout-app.html</loc>
+    </url>
+    <url>
+        <loc>https://mlnmrkvc.github.io/test/the-benefits-of-working-out-in-a-gym.html</loc>
+    </url>
 </urlset>
