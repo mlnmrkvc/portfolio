@@ -1,7 +1,9 @@
 .footer-basic {
-  padding: 40px 0;
-  background-color: #ffffff;
-  color: #4b4c4d;
+  padding: 40px;
+  color: var(--bs-light);
+  height: 180px;
+  padding-top: 60px;
+  background: #2a2a2a;
 }
 
 .footer-basic ul {
