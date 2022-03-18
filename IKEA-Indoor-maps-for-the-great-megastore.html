@@ -6,6 +6,8 @@
 <!-- Disallow Google Bot -->
 <meta name='robots' content='noindex,nofollow' />
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.css">
+
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -32,10 +34,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/Article-List.css">
     <link rel="stylesheet" href="assets/css/Button.css">
+    <link rel="stylesheet" href="assets/css/cookiealert.css">
     <link rel="stylesheet" href="assets/css/Footer-Basic.css">
 </head>
 
-<body><!-- Google Tag Manager (noscript) -->
+<body>
+    <!-- Start: Bootstrap Cookie Alert --><!-- START Bootstrap-Cookie-Alert -->
+<div class="alert text-center cookiealert" role="alert">
+    <b>Do you like cookies?</b> &#x1F36A; We use cookies to ensure you get the best experience on our website. <a href="https://cookiesandyou.com/" target="_blank">Learn more</a>
+
+    <button type="button" class="btn btn-primary btn-sm acceptcookies">
+        I agree
+    </button>
+</div>
+<!-- END Bootstrap-Cookie-Alert --><!-- End: Bootstrap Cookie Alert --><!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K6XX7PT"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
@@ -104,9 +116,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- Start: Copyright -->
         <p class="copyright">Milan Markovic © 2022</p><!-- End: Copyright -->
     </footer><!-- End: Footer Basic -->
+    <!-- Start: Final Bootstrap Cookie Alert --><script src="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.js"></script><!-- End: Final Bootstrap Cookie Alert -->
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="assets/js/clean-blog.js"></script>
+    <script src="assets/js/cookiealert.js"></script>
 </body>
 
 </html>
